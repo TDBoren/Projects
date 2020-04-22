@@ -29,7 +29,7 @@ body {
 
 .menu li {
     color: #B3B3B3;
-    display: in-line block;
+    display: inline-block;
     margin-right: -2px;
     position: relative;
     padding: 12px 40px;
